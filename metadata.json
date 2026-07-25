@@ -1,0 +1,6 @@
+{
+  "name": "AI SQL & Excel Query Generator",
+  "description": "Convert natural language into SQL queries and Excel formulas instantly, explain existing queries, and generate sample database records using AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
